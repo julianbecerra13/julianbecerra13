@@ -140,10 +140,10 @@ Push Notifications · JWT Auth
 <div align="center">
 
 <a href="https://github.com/julianbecerra13">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianbecerra13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=6366f1&title_color=6366f1&ring_color=6366f1&text_color=c9d1d9&custom_title=GitHub%20Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianbecerra13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=6366f1&title_color=6366f1&ring_color=6366f1&text_color=c9d1d9&custom_title=GitHub%20Stats" />
 </a>
 <a href="https://github.com/julianbecerra13">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianbecerra13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8&custom_title=Top%20Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julianbecerra13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8&custom_title=Top%20Languages" />
 </a>
 
 <br/><br/>
