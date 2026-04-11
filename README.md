@@ -15,7 +15,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Building+scalable+APIs+with+Go;%3E+Crafting+UIs+with+Next.js+%26+React;%3E+Shipping+mobile+apps+with+Flutter;%3E+%2B4+years+delivering+digital+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Building+scalable+APIs+with+Go;%3E+Crafting+UIs+with+Next.js+%26+React;%3E+Shipping+mobile+apps+with+Flutter;%3E+%2B4+years+%7C+12%2B+projects+delivered" />
 </a>
 
 <!-- VISITOR COUNTER -->
@@ -125,6 +125,44 @@ Push Notifications · JWT Auth
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏘️ Vecindario App</h3>
+<p align="center"><em>Community management for residentials</em></p>
+
+```
+Social Auth · Push Notifications
+Events Calendar · Common Spaces
+```
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌸 Floristeria E-commerce</h3>
+<p align="center"><em>Flower shop online store</em></p>
+
+```
+Product Catalog · Shopping Cart
+Serverless DB · Modern UI
+```
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" />
+<img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
 </p>
 
 </td>
