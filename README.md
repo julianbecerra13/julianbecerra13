@@ -6,7 +6,7 @@
 <!-- SOCIAL BADGES -->
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge&logoColor=white)](https://enchanting-sunflower-e31c11.netlify.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge&logoColor=white)](https://julianbecerra.netlify.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-becerra-rodriguez-21060018b)&nbsp;
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/DarkPerridev)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:becerrarodriguezjulian@gmail.com)
@@ -132,37 +132,37 @@ Push Notifications · JWT Auth
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏘️ Vecindario App</h3>
-<p align="center"><em>Community management for residentials</em></p>
+<h3 align="center">✨ NOVA — AI Agent</h3>
+<p align="center"><em>Nuevo Operador Virtual Autónomo</em></p>
 
 ```
-Social Auth · Push Notifications
-Events Calendar · Common Spaces
+B2B Prospecting · Web Research
+LLM Email Drafting · Human-in-the-loop
 ```
 
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<a href="https://github.com/julianbecerra13/nova"><img src="https://img.shields.io/badge/Go_1.26-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Resend-000?style=flat-square&logo=resend&logoColor=white" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌸 Floristeria E-commerce</h3>
-<p align="center"><em>Flower shop online store</em></p>
+<h3 align="center">🎫 AI Ticket Agent</h3>
+<p align="center"><em>Support ticket classifier + LLM agent</em></p>
 
 ```
-Product Catalog · Shopping Cart
-Serverless DB · Modern UI
+scikit-learn · FastAPI
+Bring-your-own LLM (Claude/OpenAI/Ollama)
 ```
 
 <p align="center">
-<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" />
-<img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
+<a href="https://github.com/julianbecerra13/ai-ticket-agent"><img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 </td>
